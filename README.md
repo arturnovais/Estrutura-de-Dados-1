@@ -1,2 +1,2 @@
 # Estrutura-de-Dados-1
-Conteúdo referente a matéria AED1 do Bacharelado em I.A da UFG
+Esse repositório contém códigos correspondentes à disciplina de Estrutura de dados 1 do Bacharelado em inteligência Artificial da UFG. A matéria é ministrada na linguagem C.
